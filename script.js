@@ -41,7 +41,7 @@ function updateCounter (valore){
     const counterElement = document.getElementById('counter')
     let counterValue = valore
 
-    counterElement.textContent = `${counterValue}`
+    counterElement.textContent = counterValue
 
     // Aggiorna il valore in LocalStorage
     localStorage.setItem('counter', counterValue)
