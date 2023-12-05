@@ -1,0 +1,16 @@
+body {
+    font-size: 2rem;
+    background-color: rgb(12, 2, 67);
+    color: aliceblue;
+}
+
+main {
+    position: absolute;
+    width: 500px;
+    top: 30%;
+    left: 37%;
+}
+
+h1 {
+    text-align: center;
+}
